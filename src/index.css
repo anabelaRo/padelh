@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gray-100; /* Esto le da un fondo gris claro global */
+}
